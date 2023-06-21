@@ -1,0 +1,7 @@
+C:\Users\Jearreguin\source\repos\Ecuaciones\bin\Debug\Ecuaciones.exe.config
+C:\Users\Jearreguin\source\repos\Ecuaciones\bin\Debug\Ecuaciones.exe
+C:\Users\Jearreguin\source\repos\Ecuaciones\bin\Debug\Ecuaciones.pdb
+C:\Users\Jearreguin\source\repos\Ecuaciones\obj\Debug\Ecuaciones.csproj.AssemblyReference.cache
+C:\Users\Jearreguin\source\repos\Ecuaciones\obj\Debug\Ecuaciones.csproj.CoreCompileInputs.cache
+C:\Users\Jearreguin\source\repos\Ecuaciones\obj\Debug\Ecuaciones.exe
+C:\Users\Jearreguin\source\repos\Ecuaciones\obj\Debug\Ecuaciones.pdb
