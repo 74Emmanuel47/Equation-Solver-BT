@@ -6,11 +6,13 @@ Usually, in math problems you have to solve equations with the next form:
 With a, b, c, d and e like variables.
 
 To solve this equation, we are going to make a binary tree, in which each root node has just two child nodes. A binary tree looks like:
+
        (A)        ->  Root node  or dad node.
      /     \
     B       C     -> Leaf nodes or child nodes.
 
 We can guess dad node (A) is a symbol that indicates a math operation, and child nodes (B and C) like numbers. Substituting the letters for random values, we can get the next tree:
+
         *
       /   \
     4       3
